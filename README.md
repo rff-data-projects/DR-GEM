@@ -7,4 +7,4 @@ DR-GEM version 1.0 utilizes a national market assumption for trade across domest
 
 DR-GEM originally used regional social accounting matrix (SAM) from the IMPLAN group, \cite{IMPLAN}, and the most up-to-date code shows how this data is utilized. However, the IMPLAN data is proprietary and cannot be used in open source codes. Work is currently being done to utilize regional social accounting matrices from the Wisconsin National Data Consortium (WiNDC).  
 
-The model will be periodically updated with new data and features. For a full description of the DR-GEM model, please see <link forthcoming>.
+The model will be periodically updated with new data and features. For a full description of the DR-GEM model, please see [here](https://media.rff.org/documents/DR_GEM_Model_Documentation_2.pdf?_ga=2.109427077.1410951694.1659370309-752896534.1659370309).
